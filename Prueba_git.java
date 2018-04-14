@@ -17,6 +17,7 @@ public class Prueba_git {
     public static void main(String[] args) {
 //esto es un comentario para ver que funciona
 //actualizacion 1
+//actualizacion 2
     }
     
 }
